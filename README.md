@@ -11,8 +11,7 @@
     User Guide</li>
     <li>
      RentAgency folder : contains the program</li>
-    <li>
-    Unit Testing
+    <li>Unit Testing
 </li>
 </ol>
 <br>
