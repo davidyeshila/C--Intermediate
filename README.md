@@ -1,9 +1,21 @@
 # C#-Intermediate Programming
-The project zip file includes
-    1. Design Rationale
-    2. UML
-    3. User Guide
-    4. RentAgency folder : contains the program
-    5. Unit Testing
+
+<p>The project zip file includes
+<ol>
+<li>
+    Design Rationale
+    </li>
+    <li>
+    UML</li>
+    <li>
+    User Guide</li>
+    <li>
+    RentAgency folder : contains the program and</li>
+    <li>
+    Unit Testing
+</li>
+</ol>
+<br>
 This program was developed using Visual Studio 2013, and it incorporates Inheritance, Polymorphism, Collection classes
 and Exception Handling.
+</p>
