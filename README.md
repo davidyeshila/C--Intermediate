@@ -10,7 +10,7 @@
     <li>
     User Guide</li>
     <li>
-    RentAgency folder : contains the program and</li>
+     RentAgency folder : contains the program</li>
     <li>
     Unit Testing
 </li>
